@@ -42,34 +42,20 @@ Here are some ideas to get you started:
 ### Languages
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=C&color=A8B9CC)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=Cplusplus&color=00599C)
-![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&logo=CSharp&color=239120)
-<br>
 ![](https://img.shields.io/badge/Lang-JAVA-informational?style=flat&logo=Oracle&color=007396)
-![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&color=3776AB)
-![](https://img.shields.io/badge/Lang-Visual%20Basic-informational?style=flat&logo=Microsoft&color=5E5E5E)
 <br>
 ### Frameworks and Tools
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&color=000000)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&color=4479A1)
 ![](https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=Wireshark&color=1679A7)
-<br>
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032)
 [![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&color=181717)](https://github.com/kijw0108)
-![](https://img.shields.io/badge/Tool-Slack-informational?style=flat&logo=Slack&color=4A154B)
 ![](https://img.shields.io/badge/Tool-Notion-informational?style=flat&logo=Notion&color=000000)
 ### Development System and IDE
 ![](https://img.shields.io/badge/VM-Virtual%20Box-informational?style=flat&logo=VirtualBox&color=183A61)
-![](https://img.shields.io/badge/VM-VMware-informational?style=flat&logo=VMware&color=607078)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&color=0078D6)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=E95420)
-![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=Kali%20Linux&color=557C94)
 <br>
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&color=E95420)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=Visual%20Studio&color=5C2D91)
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&color=007ACC)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse%20IDE&color=2C2255)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=IntelliJ%20IDEA&color=000000)
-![](https://img.shields.io/badge/IDE-Arduino-informational?style=flat&logo=Arduino&color=00979D)
 <br>
 <br>
 ## ❤️ GitHub Status
