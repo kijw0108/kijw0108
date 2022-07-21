@@ -26,12 +26,9 @@ Here are some ideas to get you started:
 <br>
 ## 📊 My PS and CP Rating
 ### BOJ and Solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eoaud0108)](https://solved.ac/eoaud0108)
-<br>
 [![BOJ
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eoaud0108)](https://icpc.me/eoaud0108)
-[![kidw0124 profile](http://mazandi.herokuapp.com/api?handle=eoaud0108)](https://solved.ac/eoaud0108)
+[![kijw0108 profile](http://mazandi.herokuapp.com/api?handle=eoaud0108)](https://solved.ac/eoaud0108)
 <br>
 
 ### Codeforces
