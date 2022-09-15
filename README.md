@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ### Codeforces
 <a href="https://codeforces.com/profile/eoaud0108" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
+[![CodeForces Profile](https://cf.leed.at?id=eoaud0108)](https://codeforces.com/profile/eoaud0108)
 <br>
 <br>
 ## 🛠️ Skills & Tools
