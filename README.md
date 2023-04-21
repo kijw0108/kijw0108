@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## 😊 About Me
 ### Hi there 👋 I'm Kim Jaewoo.
+- KU CYDF 20
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eoaud0108)](https://solved.ac/eoaud0108)
 <a href="https://codeforces.com/profile/eoaud0108" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
