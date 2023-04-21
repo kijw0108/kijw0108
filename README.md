@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <br>
 
 ### Codeforces
-<a href="https://codeforces.com/profile/jwkim0108" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
-<br>
 [![CodeForces Profile](https://cf.leed.at?id=jwkim0108)](https://codeforces.com/profile/jwkim0108)
 <br>
 <br>
