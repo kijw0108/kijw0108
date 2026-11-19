@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/eoaud0108" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
 <a href="mailto:eoaud0108@naver.com" target="_blank"><img src="https://img.shields.io/badge/eoaud0108@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br>
-<a href="mailto:eoaud0108@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/eoaud0108@korea.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:eoaud0108@kaist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/eoaud0108@korea.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jw.0108/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br>
 <br>
